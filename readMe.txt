@@ -33,19 +33,35 @@ Build the solution in Visual Studio.
 Run the application to start the server.
 Access the Application:
 
-Once the server is running, open a web browser.
-Navigate to the appropriate URL provided by Visual Studio to access the application.
 Application Roles and Functionalities
 Admin
 Functionality:
 Add employees to the system.
+
 Employee
 Functionality:
 Add farmers to the system.
 View a list of all farmers.
 View individual farmer's products and filter them.
 View a list of all products and filter them.
+
 Farmer
 Functionality:
 Add products to the web app.
 View their products on the app.
+
+Existing Accounts for Testing
+
+Admin Acc
+admin@admin.com
+P@ssw0rd
+
+Employee Acc
+mark@gmail.com
+P@ssw0rdMK
+
+Farmer Acc
+karl.burger@gmail.com
+P@ssw0rdKB
+
+
